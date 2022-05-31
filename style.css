@@ -13,6 +13,8 @@ h1 {
 
 div {
     text-align: center;
+    margin: auto;
+    width: 40%;
 
 }
 
@@ -22,4 +24,8 @@ button {
     border-radius: 30px;
     background-color: gold;
     color: white;
+}
+
+.left {
+    text-align: left;
 }
